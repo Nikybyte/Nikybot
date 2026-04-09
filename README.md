@@ -37,7 +37,7 @@ Currently working on my **thesis for a degree in Civil Engineering with a focus 
 
 ## Contact
 - ![Gmail](https://img.shields.io/badge/Gmail-nico.melladov@gmail.com-D14836?logo=gmail&logoColor=white)
-- ![Instagram](https://img.shields.io/badge/Instagram-@nikybot.exe-1DA1F2?logo=instagram&logoColor=white)
+- ![Instagram](https://img.shields.io/badge/Instagram-@nikybyte-1DA1F2?logo=instagram&logoColor=white)
 
 ## Current Project Status
 All of my projects are in various stages of development. Some are almost finished, while others are still under construction and experimentation.
