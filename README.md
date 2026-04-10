@@ -1,9 +1,9 @@
 # Hi!, i am Nikki Jasmine
 
 I am a Robotics and Automation Engineering student from Chile.  
-I enjoy building systems that combine hardware, computer vision, and IA devices.
+I am interested in developing systems that combine hardware, computer vision, and AI technologies.
 
-Here are some of the projects I'm currently working on:
+Here are some of the projects I am currently working on:
 
 ## Academic Thesis — Universidad del Bío-Bío (Chile)
 
