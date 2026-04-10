@@ -1,4 +1,4 @@
-# Hi!, i am Nikki
+# Hi!, i am Nikki Jasmine
 
 I am from Chile, i like to learn about robotics and automation, constantly learning new technologies, here are some of the projects that i am currently working on along with my academic thesis:
 
