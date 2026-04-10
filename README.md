@@ -27,7 +27,7 @@ Main features:
 
 This project explores advanced concepts in vision-based inspection and robotic accuracy.
 
-## Others projects:
+## Maker Projects:
 
 ### ![Cyberdeck-Pi](https://img.shields.io/badge/Cyberdeck--Pi-blue?style=for-the-badge)
 A cyberdeck built with a Raspberry Pi and various components. It’s a portable and customizable computing setup for personal and professional use, designed with a sleek and functional approach.
