@@ -14,10 +14,18 @@ The system uses a Raspberry Pi 5 and an AI camera to process visual data and all
 
 It also includes a basic safety system for human detection and workspace control using visual markers.
 
-## My personal projects:
+### ![VISAR-6 – Intelligent Vision System](https://img.shields.io/badge/VISAR--6-Intelligent%20Vision%20System-lightgrey?style=for-the-badge)
 
-### ![VISAR-6](https://img.shields.io/badge/VISAR--6-blue?style=for-the-badge)
-A robotic arm designed for precision tasks. It's equipped with servos, motors, and a custom-built control system. This project is one of my most ambitious, and I’m learning a lot while building it
+A robotic manipulation system focused on **computer vision and precision control**, developed as a personal research project.
+
+Main features:
+- Dynamic autofocus using ToF sensor (VL53L1X) + actuator control  
+- Compensation of mechanical elasticity in belt-driven systems  
+- Hierarchical vision pipeline (low-res detection + high-res classification)  
+
+This project explores advanced concepts in vision-based inspection and robotic accuracy.
+
+## My personal projects:
 
 ### ![Cyberdeck-Pi](https://img.shields.io/badge/Cyberdeck--Pi-blue?style=for-the-badge)
 A cyberdeck built with a Raspberry Pi and various components. it’s a portable and customizable computing setup for personal and professional use, designed with a sleek and functional design.
