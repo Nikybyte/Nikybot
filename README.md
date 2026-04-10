@@ -49,8 +49,14 @@ Focused on expressive behavior, environmental awareness, and a clean, minimal de
 - ![C++](https://img.shields.io/badge/C%2B%2B-11-00599C?logo=c%2B%2B&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
   
-## Components and devices that i work: 
-- Arduino Mega2560, ESP32U, Raspberry Pi, servos, stepper motors, DRV8825 drivers, relays, etc.
+## Hardware & Systems I work with
+
+I enjoy working hands-on with embedded systems and robotics hardware, from simple setups to more complex integrations.
+
+- **Embedded platforms:** Arduino, ESP32, STM32F4, Raspberry Pi  
+- **Actuation:** Servos, stepper motors (NEMA), motor drivers (DRV8825)  
+- **Vision:** AI cameras (IMX500, IMX415)  
+- **Electronics:** Relays, power systems, custom wiring and prototyping  
   
 ## **Software**:
 - ![Autodesk](https://img.shields.io/badge/Autodesk-3ds_Max-1D1D1B?logo=autodesk&logoColor=white)
