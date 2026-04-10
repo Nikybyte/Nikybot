@@ -4,15 +4,17 @@ I am from Chile, i like to learn about robotics and automation, constantly learn
 
 ### ![Academic Thesis – Computer Vision and AI for KUKA KR120](https://img.shields.io/badge/Academic%20Thesis-Computer%20Vision%20and%20AI%20for%20KUKA%20KR120-red?style=for-the-badge)
 
-Currently working on my **thesis in Civil Engineering (Automation)**, focused on adding **computer vision capabilities to an industrial robotic arm (KUKA KR120)**.
+Currently working on my **thesis in Civil Engineering (Automation)**, focused on integrating **computer vision and AI** into an industrial robotic arm (KUKA KR120).
 
-The system uses a Raspberry Pi 5 and an AI camera to process visual data and allow the robot to:
+The system uses a Raspberry Pi 5 and an AI camera to process visual data, combining classical computer vision techniques (segmentation, edge detection, centroid estimation) with AI-based detection models.
+
+This allows the robot to:
 - Detect objects and contours  
 - Calculate positions for manipulation  
 - Avoid collisions  
 - Recognize its environment  
 
-It also includes a basic safety system for human detection and workspace control using visual markers (arUcos).
+It also includes a safety system for human detection and workspace control using visual markers (ArUco).
 
 ## My personal project:
 
