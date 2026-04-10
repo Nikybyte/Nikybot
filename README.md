@@ -29,16 +29,16 @@ This project explores advanced concepts in vision-based inspection and robotic a
 
 ## Maker Projects:
 
-### ![Cyberdeck-Pi](https://img.shields.io/badge/Cyberdeck--Pi-blue?style=for-the-badge)
+### ![Cyberdeck-Pi – Portable Computing System](https://img.shields.io/badge/Cyberdeck--Pi-Portable%20Computing%20System-blue?style=for-the-badge)
 A cyberdeck built with a Raspberry Pi and various components. It’s a portable and customizable computing setup for personal and professional use, designed with a sleek and functional approach.
 
-### ![OptiMorse](https://img.shields.io/badge/OptiMorse-blue?style=for-the-badge)
+### ![OptiMorse – Optical Communication System](https://img.shields.io/badge/OptiMorse-Optical%20Communication%20System-blue?style=for-the-badge)
 A project focused on **fiber optic data transmission**. It uses a laser emitter and a light sensor to send and receive data through optical fiber using light pulses.
 
-### ![LightRanger-X](https://img.shields.io/badge/LightRanger--X-blue?style=for-the-badge)
+### ![LightRanger-X – Autonomous Exploration Robot](https://img.shields.io/badge/LightRanger--X-Autonomous%20Exploration%20Robot-blue?style=for-the-badge)
 An autonomous robotic platform with 3D-printed parts, solar panels, omnidirectional wheels, and multiple sensors for an interactive and energy-efficient system.
 
-### ![NEXA](https://img.shields.io/badge/NEXA-Interactive%20Assistant-blue?style=for-the-badge)
+### ![NEXA – Interactive Assistant](https://img.shields.io/badge/NEXA-Interactive%20Assistant-blue?style=for-the-badge)
 An interactive desktop robotic assistant designed for companionship and human-robot interaction.  
 It features an ESP32-S3 CAM (OV2640), audio system (microphone, speaker, amplifier), and a small OLED display for system feedback.  
 Focused on expressive behavior, environmental awareness, and a clean, minimal design.
