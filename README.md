@@ -30,13 +30,18 @@ This project explores advanced concepts in vision-based inspection and robotic a
 ## Others projects:
 
 ### ![Cyberdeck-Pi](https://img.shields.io/badge/Cyberdeck--Pi-blue?style=for-the-badge)
-A cyberdeck built with a Raspberry Pi and various components. it’s a portable and customizable computing setup for personal and professional use, designed with a sleek and functional design.
+A cyberdeck built with a Raspberry Pi and various components. It’s a portable and customizable computing setup for personal and professional use, designed with a sleek and functional approach.
 
-### ![OptiMorse](https://img.shields.io/badge/OptiMorse%20-blue?style=for-the-badge)
-A project focused on **fiber optic data transmission**. It uses an emitter and receiver to demonstrate how data can be transmitted via fiber optics.
+### ![OptiMorse](https://img.shields.io/badge/OptiMorse-blue?style=for-the-badge)
+A project focused on **fiber optic data transmission**. It uses a laser emitter and a light sensor to send and receive data through optical fiber using light pulses.
 
 ### ![LightRanger-X](https://img.shields.io/badge/LightRanger--X-blue?style=for-the-badge)
-An upgraded version of the MBOT robot, with enhancements such as 3D-printed parts, solar panels, a front omnidirectional wheel, and various sensors for a more interactive and eco-friendly robotic experience.
+An autonomous robotic platform with 3D-printed parts, solar panels, omnidirectional wheels, and multiple sensors for an interactive and energy-efficient system.
+
+### ![NEXA](https://img.shields.io/badge/NEXA-Interactive%20Assistant-blue?style=for-the-badge)
+An interactive desktop robotic assistant designed for companionship and human-robot interaction.  
+It features an ESP32-S3 CAM (OV2640), audio system (microphone, speaker, amplifier), and a small OLED display for system feedback.  
+Focused on expressive behavior, environmental awareness, and a clean, minimal design.
 
 ## Technologies than i use:
 
