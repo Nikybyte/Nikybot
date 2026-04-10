@@ -53,8 +53,7 @@ Focused on expressive behavior, environmental awareness, and a clean, minimal de
 
 I enjoy working hands-on with embedded systems and robotics hardware, from simple setups to more complex integrations.
 
-- **Embedded platforms:** Arduino, ESP32, STM32F4, Raspberry Pi  
-- **Actuation:** Servos, stepper motors (NEMA), motor drivers (DRV8825)  
+- **Embedded platforms:** Arduino, ESP32, STM32F4, Raspberry Pi.  
 - **Vision:** AI cameras (IMX500, IMX415)  
 - **Electronics:** Relays, power systems, custom wiring and prototyping  
   
