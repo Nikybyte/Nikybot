@@ -1,6 +1,19 @@
 # Hi!, i am Nikki
 
 I am from Chile, i like to learn about robotics and automation, constantly learning new technologies, here are some of the projects that i am currently working on along with my academic thesis:
+
+### ![Academic Thesis – Computer Vision + Robotics](https://img.shields.io/badge/Academic%20Thesis-Computer%20Vision%20%2B%20Robotics-red?style=for-the-badge)
+
+Currently working on my **thesis in Civil Engineering (Automation)**, focused on adding **computer vision capabilities to an industrial robotic arm (KUKA KR120)**.
+
+The system uses a Raspberry Pi 5 and an AI camera to process visual data and allow the robot to:
+- Detect objects and contours  
+- Calculate positions for manipulation  
+- Avoid collisions  
+- Recognize its environment  
+
+It also includes a basic safety system for human detection and workspace control using visual markers.
+
 ## My personal projects:
 
 ### ![VISAR-6](https://img.shields.io/badge/Kinetic--7-blue?style=for-the-badge)
@@ -14,18 +27,6 @@ A project focused on **fiber optic data transmission**. It uses an emitter and r
 
 ### ![LightRanger](https://img.shields.io/badge/SolarMBOT--X-blue?style=for-the-badge)
 An upgraded version of the MBOT robot, with enhancements such as 3D-printed parts, solar panels, a front omnidirectional wheel, and various sensors for a more interactive and eco-friendly robotic experience.
-
-### ![Academic Thesis – Computer Vision + Robotics](https://img.shields.io/badge/Academic%20Thesis-Computer%20Vision%20%2B%20Robotics-red?style=for-the-badge)
-
-Currently working on my **thesis in Civil Engineering (Automation)**, focused on adding **computer vision capabilities to an industrial robotic arm (KUKA KR120)**.
-
-The system uses a Raspberry Pi 5 and an AI camera to process visual data and allow the robot to:
-- Detect objects and contours  
-- Calculate positions for manipulation  
-- Avoid collisions  
-- Recognize its environment  
-
-It also includes a basic safety system for human detection and workspace control using visual markers.
 
 ## Technologies than i use:
 
