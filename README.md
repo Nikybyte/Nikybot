@@ -12,7 +12,7 @@ The system uses a Raspberry Pi 5 and an AI camera to process visual data and all
 - Avoid collisions  
 - Recognize its environment  
 
-It also includes a basic safety system for human detection and workspace control using visual markers.
+It also includes a basic safety system for human detection and workspace control using visual markers (arUcos).
 
 ## My personal project:
 
