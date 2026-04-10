@@ -32,6 +32,21 @@ Main features:
 
 This project explores advanced concepts in vision-based inspection, robotic accuracy, and intelligent assistance for engineering tasks.
 
+### ![LUMI – Interactive Humanoid Robot](https://img.shields.io/badge/LUMI-Interactive%20Humanoid%20Robot-red?style=for-the-badge)
+
+An interactive humanoid robotic platform designed for educational environments, focused on human-robot interaction and accessibility.
+
+Built around a Raspberry Pi 4 (8GB), the system integrates vision, voice interaction, and expressive behavior to assist in classroom activities.
+
+Main features:
+- Voice interaction and speech recognition  
+- Face recognition and user identification  
+- Expressive interface using a 7" display (eyes and emotions)  
+- Omnidirectional mobile base for navigation  
+- Articulated arms for gestures and interaction  
+
+The project aims to bring robotics and AI closer to classrooms, creating a friendly and engaging robotic assistant for students and teachers.
+
 ## Maker Projects:
 
 ### ![Cyberdeck-Pi – Portable Computing System](https://img.shields.io/badge/Cyberdeck--Pi-Portable%20Computing%20System-blue?style=for-the-badge)
