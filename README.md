@@ -68,27 +68,27 @@ An interactive desktop robotic assistant designed for companionship and human-ro
 It features an ESP32-S3 CAM (OV2640), audio system (microphone, speaker, amplifier), and a small OLED display for system feedback.  
 Focused on expressive behavior, environmental awareness, and a clean, minimal design.
 
-## Technologies than i use:
+## Technologies & Tools
 
-- **Languages**:
+### Programming
 - ![C++](https://img.shields.io/badge/C%2B%2B-11-00599C?logo=c%2B%2B&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-  
-## Hardware & Systems I work with
 
-I enjoy working hands-on with embedded systems and robotics hardware, from simple setups to more complex integrations.
+### Hardware & Systems
+Experience working with embedded systems and robotics hardware, from basic prototyping to more integrated systems.
 
-- **Embedded platforms:** Arduino, ESP32, STM32F4, Raspberry Pi.  
-- **Vision:** AI cameras (IMX500, IMX415)  
-- **Electronics:** Relays, power systems, custom wiring and prototyping  
-  
-## **Software**:
+- **Embedded platforms:** Arduino (Mega, Nano, UNO), ESP32 (ESP32, ESP32-S3, ESP32-CAM), STM32F4, Raspberry Pi  
+- **Vision systems:** AI cameras (IMX500, IMX415)    
+- **Electronics:** Power systems, relays, custom wiring and prototyping  
+
+### Software & Design
 - ![Autodesk](https://img.shields.io/badge/Autodesk-3ds_Max-1D1D1B?logo=autodesk&logoColor=white)
 - ![Tinkercad](https://img.shields.io/badge/Tinkercad-3D_Design-F59E42?logo=tinkercad&logoColor=white)
 - ![Creality Slicer](https://img.shields.io/badge/Creality_Slicer-4.8_Pro-F24E1E?logo=creality&logoColor=white)
 - ![Creality Print](https://img.shields.io/badge/Creality_Print-v1.4.0-009C9D?logo=creality&logoColor=white)
-- ![PSIM](https://img.shields.io/badge/PSIM-Software-00A4A4?logo=psim&logoColor=white) 
+- ![PSIM](https://img.shields.io/badge/PSIM-Software-00A4A4?logo=psim&logoColor=white)
 
+---
 
 ## Contact
 - ![Gmail](https://img.shields.io/badge/Gmail-nico.melladov@gmail.com-D14836?logo=gmail&logoColor=white)
