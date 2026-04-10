@@ -21,7 +21,7 @@ This allows the robot to:
 
 It also includes a safety system for human detection and workspace control using visual markers (ArUco).
 
-## My personal project:
+## My personal projects:
 
 ### ![VISAR-6 – Robotic Optical Inspection System](https://img.shields.io/badge/VISAR--6-Robotic%20Optical%20Inspection%20System-red?style=for-the-badge)
 
@@ -41,7 +41,7 @@ This project explores advanced concepts in vision-based inspection, robotic accu
 
 An interactive humanoid robotic platform designed for educational environments, focused on human-robot interaction and accessibility.
 
-Built around a Raspberry Pi 4 (8GB), the system integrates vision, voice interaction, and expressive behavior to assist in classroom activities.
+Built around a Raspberry Pi 4 (8GB), the system integrates vision, voice interaction, and expressive behavior to assist in classroom activities, designed as a friendly robotic assistant capable of interacting with students and recognizing individuals in real-world classroom environments.
 
 Main features:
 - Voice interaction and speech recognition  
