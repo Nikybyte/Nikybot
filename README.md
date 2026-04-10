@@ -16,16 +16,16 @@ It also includes a basic safety system for human detection and workspace control
 
 ## My personal projects:
 
-### ![VISAR-6](https://img.shields.io/badge/Kinetic--7-blue?style=for-the-badge)
+### ![VISAR-6](https://img.shields.io/badge/VISAR--6-blue?style=for-the-badge)
 A robotic arm designed for precision tasks. It's equipped with servos, motors, and a custom-built control system. This project is one of my most ambitious, and I’m learning a lot while building it
 
-### ![Cyberdeck PI](https://img.shields.io/badge/ByteForge%201000-blue?style=for-the-badge)
+### ![Cyberdeck PI](https://img.shields.io/badge/CyberdeckPI%201000-blue?style=for-the-badge)
 A cyberdeck built with a Raspberry Pi and various components. it’s a portable and customizable computing setup for personal and professional use, designed with a sleek and functional design.
 
-### ![OptiMorse](https://img.shields.io/badge/OptiLink%20v1.0-blue?style=for-the-badge)
+### ![OptiMorse](https://img.shields.io/badge/OptiMorse%20-blue?style=for-the-badge)
 A project focused on **fiber optic data transmission**. It uses an emitter and receiver to demonstrate how data can be transmitted via fiber optics.
 
-### ![LightRanger](https://img.shields.io/badge/SolarMBOT--X-blue?style=for-the-badge)
+### ![LightRanger-X](https://img.shields.io/badge/LightRanger--X-blue?style=for-the-badge)
 An upgraded version of the MBOT robot, with enhancements such as 3D-printed parts, solar panels, a front omnidirectional wheel, and various sensors for a more interactive and eco-friendly robotic experience.
 
 ## Technologies than i use:
