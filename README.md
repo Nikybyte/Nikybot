@@ -14,7 +14,7 @@ The system uses a Raspberry Pi 5 and an AI camera to process visual data and all
 
 It also includes a basic safety system for human detection and workspace control using visual markers.
 
-### ![VISAR-6 – Intelligent Vision System](https://img.shields.io/badge/VISAR--6-Intelligent%20Vision%20System-lightgrey?style=for-the-badge)
+### ![VISAR-6 – Intelligent Vision System](https://img.shields.io/badge/VISAR--6-Intelligent%20Vision%20System-red?style=for-the-badge)
 
 A robotic manipulation system focused on **computer vision and precision control**, developed as a personal research project.
 
