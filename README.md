@@ -18,16 +18,19 @@ It also includes a safety system for human detection and workspace control using
 
 ## My personal project:
 
-### ![VISAR-6 – Intelligent Vision System](https://img.shields.io/badge/VISAR--6-Intelligent%20Vision%20System-red?style=for-the-badge)
+### ![VISAR-6 – Robotic Optical Inspection System](https://img.shields.io/badge/VISAR--6-Robotic%20Optical%20Inspection%20System-red?style=for-the-badge)
 
-A robotic manipulation system focused on **computer vision and precision control**, developed as a personal research project.
+A 6-DOF robotic platform designed for **optical inspection and precision analysis of high-density hardware**, developed as a personal research project.
+
+The system combines robotic manipulation, computer vision, and sensor fusion to assist in microelectronic inspection and diagnostics.
 
 Main features:
-- Dynamic autofocus using ToF sensor (VL53L1X) + actuator control  
-- Compensation of mechanical elasticity in belt-driven systems  
-- Hierarchical vision pipeline (low-res detection + high-res classification)  
+- Hierarchical vision pipeline (720p scanning + 4K detailed analysis)  
+- Dynamic macro autofocus using ToF sensor (VL53L1X) and motorized lens control  
+- Compensation of mechanical elasticity in belt-driven transmission systems  
+- Vision-based component detection and contextual analysis  
 
-This project explores advanced concepts in vision-based inspection and robotic accuracy.
+This project explores advanced concepts in vision-based inspection, robotic accuracy, and intelligent assistance for engineering tasks.
 
 ## Maker Projects:
 
