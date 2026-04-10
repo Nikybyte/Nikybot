@@ -19,7 +19,7 @@ It also includes a basic safety system for human detection and workspace control
 ### ![VISAR-6](https://img.shields.io/badge/VISAR--6-blue?style=for-the-badge)
 A robotic arm designed for precision tasks. It's equipped with servos, motors, and a custom-built control system. This project is one of my most ambitious, and I’m learning a lot while building it
 
-### ![Cyberdeck PI](https://img.shields.io/badge/CyberdeckPI%201000-blue?style=for-the-badge)
+### ![Cyberdeck PI](https://img.shields.io/badge/CyberdeckPI%20-blue?style=for-the-badge)
 A cyberdeck built with a Raspberry Pi and various components. it’s a portable and customizable computing setup for personal and professional use, designed with a sleek and functional design.
 
 ### ![OptiMorse](https://img.shields.io/badge/OptiMorse%20-blue?style=for-the-badge)
