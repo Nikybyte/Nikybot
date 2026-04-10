@@ -2,7 +2,7 @@
 
 I am from Chile, i like to learn about robotics and automation, constantly learning new technologies, here are some of the projects that i am currently working on along with my academic thesis:
 
-### ![Academic Thesis – Vision-Based Control for KUKA KR120](https://img.shields.io/badge/Academic%20Thesis-KUKA%20KR120%20%2B%20Computer%20Vision-red?style=for-the-badge)
+### ![Academic Thesis – Computer Vision and AI for KUKA KR120](https://img.shields.io/badge/Academic%20Thesis-Computer%20Vision%20and%20AI%20for%20KUKA%20KR120-red?style=for-the-badge)
 
 Currently working on my **thesis in Civil Engineering (Automation)**, focused on adding **computer vision capabilities to an industrial robotic arm (KUKA KR120)**.
 
