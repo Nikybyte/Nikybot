@@ -1,6 +1,8 @@
 # Hi!, i am Nikki Jasmine
 
-I am from Chile, i like to learn about robotics and automation, constantly learning new technologies, here are some of the projects that i am currently working on along with my academic thesis:
+I am from Chile, i like to learn about robotics and automation, constantly learning new technologies, here are some of the projects that i am currently working:
+
+## Academic Thesis University of Bio-Bio, Chile
 
 ### ![Academic Thesis – Computer Vision and AI for KUKA KR120](https://img.shields.io/badge/Academic%20Thesis-Computer%20Vision%20and%20AI%20for%20KUKA%20KR120-red?style=for-the-badge)
 
